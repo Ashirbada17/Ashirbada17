@@ -12,14 +12,14 @@ I design and build secure, scalable, and production-ready backend applications u
 
 # 💫 About Me
 
-🎓 B.Tech Graduate
-💼 Java Backend Engineer with a strong focus on backend application development
-🚀 Experienced in building REST APIs, authentication systems, and database-driven applications
-🌱 Currently deepening my expertise in Microservices, Docker, Redis, System Design, and Cloud Technologies
-🤖 Interested in AI-powered backend systems and intelligent application development
-🏗️ Passionate about software architecture, API design, performance optimization, and clean code principles
-📖 Committed to continuous learning and engineering high-quality, production-ready software
-📍 Open to Full-Time Software Engineer and Java Backend Engineer opportunities
+-🎓 B.Tech Graduate
+-💼 Java Backend Engineer with a strong focus on backend application development
+-🚀 Experienced in building REST APIs, authentication systems, and database-driven applications
+-🌱 Currently deepening my expertise in Microservices, Docker, Redis, System Design, and Cloud Technologies
+-🤖 Interested in AI-powered backend systems and intelligent application development
+-🏗️ Passionate about software architecture, API design, performance optimization, and clean code principles
+-📖 Committed to continuous learning and engineering high-quality, production-ready software
+-📍 Open to Full-Time Software Engineer and Java Backend Engineer opportunities
 
 ---
 
