@@ -105,7 +105,7 @@ I design and build secure, scalable, and production-ready backend applications u
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,render,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman"/>
 
 </p>
 
@@ -144,12 +144,6 @@ A fitness management application for workout tracking, user management, and pers
 ---
 
 # 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashirbada17&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashirbada17&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 <p align="center">
