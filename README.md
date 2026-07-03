@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ashirbada Mohanty</h1>
 
 <h3 align="center">
-Java Backend Developer | Spring Boot | REST API | MySQL
+Java Backend Engineer | Spring Boot | Spring Security | REST APIs | JPA/Hibernate | MySQL
 </h3>
 
 <p align="center">
-Building secure, scalable, and maintainable backend applications using Java and Spring Boot.
-Passionate about backend architecture, API development, and solving real-world problems through software.
+I design and build secure, scalable, and production-ready backend applications using Java and the Spring ecosystem. My focus is on developing robust RESTful APIs, implementing secure authentication and authorization, designing efficient database solutions, and writing clean, maintainable code that follows industry best practices.
 </p>
 
 ---
 
 # 💫 About Me
 
-- 🎓 B.Tech Graduate
-- 💼 Java Backend Developer
-- 🌱 Currently expanding my knowledge in **Microservices, Docker, Redis, and System Design**
-- 🤖 Interested in AI-powered backend applications
-- 💡 Strong believer in writing clean, maintainable, and scalable code
-- 📍 Open to Full-Time Software Engineer & Java Backend Developer opportunities
+🎓 B.Tech Graduate
+💼 Java Backend Engineer with a strong focus on backend application development
+🚀 Experienced in building REST APIs, authentication systems, and database-driven applications
+🌱 Currently deepening my expertise in Microservices, Docker, Redis, System Design, and Cloud Technologies
+🤖 Interested in AI-powered backend systems and intelligent application development
+🏗️ Passionate about software architecture, API design, performance optimization, and clean code principles
+📖 Committed to continuous learning and engineering high-quality, production-ready software
+📍 Open to Full-Time Software Engineer and Java Backend Engineer opportunities
 
 ---
 
