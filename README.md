@@ -1,88 +1,288 @@
 <h1 align="center">Hi 👋, I'm Ashirbada Mohanty</h1>
 
 <h3 align="center">
-Java Backend Developer | Spring Boot | REST APIs | MySQL
+Java Backend Developer • Spring Boot • REST APIs • MySQL • Microservices Enthusiast
 </h3>
 
+<p align="center">
+Passionate about designing scalable backend systems, building secure REST APIs, and solving real-world problems using Java and Spring Boot.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ashirbada17&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
+- 💼 Aspiring **Java Backend Developer**
 - 🎓 Computer Science Student
-- 💻 Passionate Java Backend Developer
-- 🌱 Currently learning Microservices & Docker
-- 🤖 Interested in AI-powered applications
-- 🚀 Love building scalable backend systems
+- 🌱 Currently learning **Microservices, Docker, Redis, Kafka & AWS**
+- 🔭 Building scalable backend applications with **Spring Boot**
+- 🤖 Interested in **AI-powered backend systems**
+- 💡 Passionate about Clean Code, Design Patterns & Software Architecture
+- 🚀 Always learning new backend technologies
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+## 👨‍💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-
-### Tools
-
-Git • GitHub • Maven • Postman • Docker • IntelliJ IDEA
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
+
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity"/>
+
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OAuth2-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAPI-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx"/>
+</p>
+
+---
+
+## 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,linux"/>
+</p>
+
+---
+
+## 🧪 Testing
+
+- JUnit 5
+- Mockito
+- Postman
+
+---
+
+# 🏗 Core Backend Skills
+
+✔ Core Java
+
+✔ Object-Oriented Programming
+
+✔ Collections Framework
+
+✔ Java Streams API
+
+✔ Exception Handling
+
+✔ Multithreading
+
+✔ JDBC
+
+✔ Spring Boot
+
+✔ Spring MVC
+
+✔ Spring Security
+
+✔ Spring Data JPA
+
+✔ Hibernate
+
+✔ RESTful APIs
+
+✔ JWT Authentication
+
+✔ MySQL
+
+✔ MongoDB
+
+✔ Maven
+
+✔ Git & GitHub
+
+✔ Docker
+
+✔ Microservices (Learning)
+
+✔ Redis (Learning)
+
+✔ Apache Kafka (Learning)
+
+✔ AWS (Learning)
+
+✔ Design Patterns
+
+✔ SOLID Principles
+
+✔ MVC Architecture
+
+✔ Layered Architecture
+
+✔ Data Structures & Algorithms
+
+---
+
+# 🚀 Featured Projects
 
 ### 🤖 AI Email Reply Assistant
-Spring Boot + React + Gemini API
+
+> AI-powered email assistant that generates context-aware email replies using Google's Gemini API.
+
+**Tech Stack**
+
+- Spring Boot
+- React
+- Gemini API
+- REST APIs
+
+---
 
 ### 🏨 Hotel Booking Management System
-Spring Boot + React + MySQL
 
-### 🏋️ Fitness Management System
-Spring Boot + React
+> Full-stack hotel reservation platform with authentication, booking management and responsive UI.
 
----
+**Tech Stack**
 
-## 📈 GitHub Stats
-
-![Ashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashirbada17&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashirbada17&theme=tokyonight)
+- Spring Boot
+- Spring Security
+- React
+- MySQL
 
 ---
 
-## 💻 Most Used Languages
+### 🏋 Fitness Management System
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashirbada17&layout=compact&theme=tokyonight)
+> Fitness management platform for workout tracking and user management.
+
+**Tech Stack**
+
+- Spring Boot
+- React
+- MySQL
 
 ---
 
-## 🌐 Connect With Me
+### 📈 TradePulse
 
-LinkedIn:
-https://linkedin.com/in/ashirbadamohanty
+> Full-stack stock portfolio management platform with real-time analytics.
 
-Portfolio:
-https://ashirbadasportfolio.onrender.com
+---
 
-Email:
-mohantyashirbada335@gmail.com## Hi there 👋
+# 📈 GitHub Statistics
 
+<p align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashirbada17&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashirbada17&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashirbada17&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ashirbada17&theme=tokyonight&margin-w=10"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Spring Cloud
+- Microservices
+- Apache Kafka
+- Redis
+- Docker
+- Kubernetes
+- AWS
+- CI/CD
+- System Design
+
+---
+
+# 🎯 Career Objective
+
+I am passionate about building secure, scalable, and high-performance backend applications using Java and Spring Boot. I enjoy solving complex problems, learning modern backend technologies, and contributing to impactful software solutions.
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mohantyashirbada335@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://ashirbadasportfolio.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</p>
