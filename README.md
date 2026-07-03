@@ -1,227 +1,158 @@
 <h1 align="center">Hi 👋, I'm Ashirbada Mohanty</h1>
 
 <h3 align="center">
-Java Backend Developer • Spring Boot • REST APIs • MySQL • Microservices Enthusiast
+Java Backend Developer | Spring Boot | REST API | MySQL
 </h3>
 
 <p align="center">
-Passionate about designing scalable backend systems, building secure REST APIs, and solving real-world problems using Java and Spring Boot.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ashirbada17&label=Profile%20Views&color=0e75b6&style=flat" />
+Building secure, scalable, and maintainable backend applications using Java and Spring Boot.
+Passionate about backend architecture, API development, and solving real-world problems through software.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-- 💼 Aspiring **Java Backend Developer**
-- 🎓 Computer Science Student
-- 🌱 Currently learning **Microservices, Docker, Redis, Kafka & AWS**
-- 🔭 Building scalable backend applications with **Spring Boot**
-- 🤖 Interested in **AI-powered backend systems**
-- 💡 Passionate about Clean Code, Design Patterns & Software Architecture
-- 🚀 Always learning new backend technologies
+- 🎓 B.Tech Graduate
+- 💼 Java Backend Developer
+- 🌱 Currently expanding my knowledge in **Microservices, Docker, Redis, and System Design**
+- 🤖 Interested in AI-powered backend applications
+- 💡 Strong believer in writing clean, maintainable, and scalable code
+- 📍 Open to Full-Time Software Engineer & Java Backend Developer opportunities
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## 👨‍💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c" />
+<img src="https://skillicons.dev/icons?i=java,js,c" />
 </p>
 
----
-
-## ⚙️ Backend
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,maven" />
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+
+</p>
+
+---
+
+### API Development
+
+<p>
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+
+</p>
+
+---
+
+### Authentication & Security
+
+<p>
 
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/OAuth2-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BCrypt-green?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAPI-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity"/>
 
 </p>
 
 ---
 
-## 🗄 Database
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
 </p>
 
 ---
 
-## 🎨 Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
+
 </p>
 
 ---
 
-## ☁️ DevOps & Cloud
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman"/>
+
 </p>
-
----
-
-## 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,linux"/>
-</p>
-
----
-
-## 🧪 Testing
-
-- JUnit 5
-- Mockito
-- Postman
-
----
-
-# 🏗 Core Backend Skills
-
-✔ Core Java
-
-✔ Object-Oriented Programming
-
-✔ Collections Framework
-
-✔ Java Streams API
-
-✔ Exception Handling
-
-✔ Multithreading
-
-✔ JDBC
-
-✔ Spring Boot
-
-✔ Spring MVC
-
-✔ Spring Security
-
-✔ Spring Data JPA
-
-✔ Hibernate
-
-✔ RESTful APIs
-
-✔ JWT Authentication
-
-✔ MySQL
-
-✔ MongoDB
-
-✔ Maven
-
-✔ Git & GitHub
-
-✔ Docker
-
-✔ Microservices (Learning)
-
-✔ Redis (Learning)
-
-✔ Apache Kafka (Learning)
-
-✔ AWS (Learning)
-
-✔ Design Patterns
-
-✔ SOLID Principles
-
-✔ MVC Architecture
-
-✔ Layered Architecture
-
-✔ Data Structures & Algorithms
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 AI Email Reply Assistant
+## 🤖 AI Email Reply Assistant
 
-> AI-powered email assistant that generates context-aware email replies using Google's Gemini API.
-
-**Tech Stack**
-
-- Spring Boot
-- React
-- Gemini API
-- REST APIs
-
----
-
-### 🏨 Hotel Booking Management System
-
-> Full-stack hotel reservation platform with authentication, booking management and responsive UI.
+An AI-powered email assistant that generates context-aware email responses directly within the email interface using Google's Gemini API.
 
 **Tech Stack**
 
-- Spring Boot
-- Spring Security
-- React
-- MySQL
+`Spring Boot` • `React` • `REST API` • `Gemini API`
 
 ---
 
-### 🏋 Fitness Management System
+## 🏨 Hotel Booking Management System
 
-> Fitness management platform for workout tracking and user management.
+A complete hotel booking platform featuring authentication, booking management, room management, and responsive UI.
 
 **Tech Stack**
 
-- Spring Boot
-- React
-- MySQL
+`Spring Boot` • `Spring Security` • `React` • `MySQL`
 
 ---
 
-### 📈 TradePulse
+## 🏋️ Fitness Management System
 
-> Full-stack stock portfolio management platform with real-time analytics.
+A fitness management application for workout tracking, user management, and personalized fitness monitoring.
+
+**Tech Stack**
+
+`Spring Boot` • `React` • `MySQL`
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashirbada17&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashirbada17&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashirbada17&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashirbada17&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
-
-# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -231,33 +162,13 @@ Passionate about designing scalable backend systems, building secure REST APIs, 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ashirbada17&theme=tokyonight&margin-w=10"/>
-
-</p>
-
----
-
 # 📚 Currently Learning
 
-- Spring Cloud
-- Microservices
-- Apache Kafka
-- Redis
+- Microservices Architecture
 - Docker
-- Kubernetes
-- AWS
-- CI/CD
+- Redis
 - System Design
-
----
-
-# 🎯 Career Objective
-
-I am passionate about building secure, scalable, and high-performance backend applications using Java and Spring Boot. I enjoy solving complex problems, learning modern backend technologies, and contributing to impactful software solutions.
+- AWS Fundamentals
 
 ---
 
@@ -266,23 +177,15 @@ I am passionate about building secure, scalable, and high-performance backend ap
 <p align="left">
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:mohantyashirbada335@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://ashirbadasportfolio.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome"/>
+<a href="https://ashirbadasportfolio.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
 </p>
