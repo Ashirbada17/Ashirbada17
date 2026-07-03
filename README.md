@@ -85,7 +85,7 @@ I design and build secure, scalable, and production-ready backend applications u
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 
 </p>
 
@@ -105,7 +105,7 @@ I design and build secure, scalable, and production-ready backend applications u
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,render,postman"/>
 
 </p>
 
@@ -115,11 +115,11 @@ I design and build secure, scalable, and production-ready backend applications u
 
 ## 🤖 AI Email Reply Assistant
 
-An AI-powered email assistant that generates context-aware email responses directly within the email interface using Google's Gemini API.
+An AI-powered email assistant that integrates directly into the Gmail interface through a Chrome extension, generating context-aware email replies using Google's Gemini API.
 
 **Tech Stack**
 
-`Spring Boot` • `React` • `REST API` • `Gemini API`
+`Spring Boot` • `React` • `REST API` •`Chrome Extension`•`Gemini API`
 
 ---
 
@@ -129,7 +129,7 @@ A complete hotel booking platform featuring authentication, booking management, 
 
 **Tech Stack**
 
-`Spring Boot` • `Spring Security` • `React` • `MySQL`
+`Java` • `Spring Boot` • `Spring Security` • `Spring Data JPA` • `Hibernate` • `REST APIs` • `PostgreSQL` • `React` • `JWT Authentication`
 
 ---
 
@@ -139,18 +139,15 @@ A fitness management application for workout tracking, user management, and pers
 
 **Tech Stack**
 
-`Spring Boot` • `React` • `MySQL`
+`Java` • `Spring Boot` • `Spring Data JPA` • `Hibernate` • `REST APIs` • `MySQL` • `React`
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashirbada17&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashirbada17&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashirbada17&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashirbada17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
